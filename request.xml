@@ -1,0 +1,8 @@
+<NewFoodItems xmlns="http://cse564.asu.edu/PoxAssignment">
+    <FoodItem country="GB">
+        <name>Cholle Bhature</name>
+        <description>peas and a side of gravy</description>
+        <category>Lunch</category>
+        <price>12.00</price>
+    </FoodItem>
+</NewFoodItems >
